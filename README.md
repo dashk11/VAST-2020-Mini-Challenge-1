@@ -2,7 +2,7 @@
 
 Vast Challenge 2020 - Mini-Challenge 1: Graph Analysis
 
-![](assets/mcvast.gif)
+<img src="assets/mcvast.gif" alt="image title" style="width: 100%;">
 
 ## Description
 
