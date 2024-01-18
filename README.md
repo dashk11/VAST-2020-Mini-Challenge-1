@@ -2,6 +2,8 @@
 
 Vast Challenge 2020 - Mini-Challenge 1: Graph Analysis
 
+![](assets/mcvast.gif)
+
 ## Description
 
 The objective of this challenge is to leverage visual analytics to determine a significant dataset provided by the Center for Global Cyber Strategy (CGCS), which comprises anonymized profiles created from data donated by white hat groups. These profiles encapsulate the behavioral and structural characteristics of various groups, one of which has been hypothesized by CGCS sociopsychologists to closely resemble the organization inadvertently responsible for a major internet outage. Our task within this challenge is to engage in a meticulous comparative analysis of the CGCS's provided subgraph template—a representation of the suspect group's structure—against several candidate subgraphs. The aim is to determine which of these subgraphs exhibits the highest degree of congruence with the template, thus identifying the group that most likely matches the profile associated with the outage.
